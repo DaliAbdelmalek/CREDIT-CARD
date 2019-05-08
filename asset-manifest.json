@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CREDIT-CARD/static/css/main.f883256b.chunk.css",
+    "main.js": "/CREDIT-CARD/static/js/main.4dadcc81.chunk.js",
+    "main.js.map": "/CREDIT-CARD/static/js/main.4dadcc81.chunk.js.map",
+    "runtime~main.js": "/CREDIT-CARD/static/js/runtime~main.3a33429c.js",
+    "runtime~main.js.map": "/CREDIT-CARD/static/js/runtime~main.3a33429c.js.map",
+    "static/js/2.179f4c70.chunk.js": "/CREDIT-CARD/static/js/2.179f4c70.chunk.js",
+    "static/js/2.179f4c70.chunk.js.map": "/CREDIT-CARD/static/js/2.179f4c70.chunk.js.map",
+    "index.html": "/CREDIT-CARD/index.html",
+    "precache-manifest.39251d1fee71fbbf2fd4b0ea2fafeb4b.js": "/CREDIT-CARD/precache-manifest.39251d1fee71fbbf2fd4b0ea2fafeb4b.js",
+    "service-worker.js": "/CREDIT-CARD/service-worker.js",
+    "static/css/main.f883256b.chunk.css.map": "/CREDIT-CARD/static/css/main.f883256b.chunk.css.map",
+    "static/media/creditcard.css": "/CREDIT-CARD/static/media/37145cda8dd62aeeb2bdc1242549b76c.e18dda56.png",
+    "static/media/CreditCard.png1.png": "/CREDIT-CARD/static/media/CreditCard.png1.a4143a28.png",
+    "static/media/pus.png": "/CREDIT-CARD/static/media/pus.a8c8030b.png"
+  }
+}
